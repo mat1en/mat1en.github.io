@@ -648,7 +648,7 @@ h5, h6          { font-weight: bolder }
 
     header .logo a, header .logo a:active, header .logo a:visited {
         text-decoration: none;
-        /*text-transform: uppercase;*/
+        text-transform: uppercase;
         font-family: 'raleway-regular';
         color: #454545;
         font-size: 1.5em;
